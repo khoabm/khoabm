@@ -4,17 +4,17 @@
 </div>
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">
-Welcome to me 🙋‍♂️
+Welcome, Let's get to know each other more
   <br />
-<h4 align = "center"> "Route to the backend path"</h4>
+<h4 align = "center"> "Quick, Clean, Efficiency" </h4>
   <br />
 </h3>
 <div style="display: flex; justify-content: space-between;">
   <div style="padding: 10px;">
 > About me: </br>
 
-- I'm currently studying at FPTU 🏫</br>
-- I mainly using .Net now but I also have somewhat bit of experience with Spring Boot </br>
+- I'm a fresh graduate student from FPTU 🏫</br>
+- I do .Net but also into Spring Boot and Flutter </br>
 - I also do video editing for a hobby 🎥</br>
 - Don't hesitate to DM me for anything 😊</br>
 <div>
