@@ -47,6 +47,6 @@ Welcome, Let's get to know each other more
 
 <p align="center">
   <a href="https://github.com/khaitran18" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaitran18&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="khaitran18's github stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=khoabm&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="khoabm's github stats"/>
   </a>
 </p>
